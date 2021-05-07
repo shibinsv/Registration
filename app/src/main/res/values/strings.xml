@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="invalid_first_name">Please enter valid name</string>
+    <string name="invalid_last_name">Please enter valid name</string>
+    <string name="invalid_mobile_no">Enter 10 digits</string>
+    <string name="invalid_email">Enter valid email</string>
+    <string name="invalid_confirm_password">Passwords do not match</string>
+    <string name="password">
+        1.One uppercase
+        2.One lowercase
+        3.One numeral
+        4.One special character
+    </string>
+    <string name="enter_password">Enter password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register2">REGISTER</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="enter_mobile_no">Enter mobile no.</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_passwordl">Enter password</string>
+</resources>
